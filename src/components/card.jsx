@@ -12,7 +12,7 @@ const Card = ({ data }) => {
             id="productOneImg"
             tabIndex={0}
           >
-            <div className="flickity-viewport" style={{ height: "246.5px" }}>
+            <div className="flickity-viewport">
               <div
                 className="flickity-slider"
                 style={{ transform: "translateX(-200%)" }}
