@@ -6,7 +6,7 @@ import { lubricantData } from "../data/data";
 const PetroluemProducts = () => {
   return (
     <>
-      <BreadCrumb title={"Petroluem Products"} />
+      <BreadCrumb title="Petroluem Products" />
       <section className="pt-7 pb-12">
         <div className="container">
           <div className="row">

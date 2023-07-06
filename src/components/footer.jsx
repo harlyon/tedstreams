@@ -138,7 +138,7 @@ const Footer = () => {
                 {/* Links */}
                 <ul className="list-unstyled mb-0 style">
                   <li>
-                    <a className="text-gray-300" href="./about.html">
+                    <a className="text-gray-300" href="#/">
                       Our Story
                     </a>
                   </li>
@@ -176,7 +176,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <a className="text-gray-300" href="#!">
-                      help@shopper.com
+                      info@tedstreams.com
                     </a>
                   </li>
                 </ul>

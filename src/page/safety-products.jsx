@@ -5,7 +5,7 @@ import BreadCrumb from "../components/breadcrumb";
 const SafetyProducts = () => {
   return (
     <>
-      <BreadCrumb title={"Safety Products"} />
+      <BreadCrumb title="Safety Products" />
       <section className="pt-7 pb-12">
         <div className="container">
           <div className="row">

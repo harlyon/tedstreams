@@ -20,7 +20,7 @@ const Sort = ({ getCategoryOptions, handleCategoryClick }) => {
                 {getCategoryOptions.map((category) => (
                   <li key={category}>
                     <a
-                      className="dropdown-item"
+                      className="dropdown-item style"
                       onClick={() => handleCategoryClick(category)}
                     >
                       {category}

@@ -32,7 +32,7 @@ const MedicalProducts = () => {
 
   return (
     <>
-      <BreadCrumb title={"Medical Products"} />
+      <BreadCrumb title="Medical Products" />
       <Sort
         handleCategoryClick={handleCategoryClick}
         getCategoryOptions={getCategoryOptions()}
